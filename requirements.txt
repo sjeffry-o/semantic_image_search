@@ -1,0 +1,7 @@
+ftfy
+regex
+transformers==3.5.1
+pymorphy2
+pytelegrambotapi
+flask==0.12.2
+flask-ngrok
