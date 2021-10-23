@@ -1,4 +1,3 @@
-'[Go to Real Cool Heading section](#real-cool-heading)'
 # semantic_image_search
 pet project on optimized semantic image search
 hosted on heroku, available in telegram by username @sem_img_search_bot

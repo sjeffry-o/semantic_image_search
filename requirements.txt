@@ -5,3 +5,4 @@ pymorphy2
 pytelegrambotapi
 flask==0.12.2
 flask-ngrok
+ngt
